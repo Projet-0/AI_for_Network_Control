@@ -1,0 +1,11 @@
+netmiko
+parse
+torch
+pytest
+tox>=3.8
+pre-commit
+coverage
+gym
+matplotlib
+cfg_load
+numpy

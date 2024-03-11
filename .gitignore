@@ -1,0 +1,12 @@
+Libs/*
+*.log
+__pycache__/*
+*/__pycache__/*
+/libs/*
+*.pyc
+abing
+abw_rfl
+abing-master/*
+src/venv/*
+src/Archive/*
+.idea/*
